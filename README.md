@@ -1,12 +1,10 @@
 # Podcastr - NLW 5
 
 <img src="public/logo.svg" />
-</br>
 
 ## Sobre
 
 Projeto desenvolvido na Edição 5 da NLW (Next Level Week).
-</br>
 
 ## Tecnologias
 
@@ -20,8 +18,6 @@ Projeto desenvolvido na Edição 5 da NLW (Next Level Week).
 - Possibilidade de embaralhar os podcasts (shuffle)
 - Possibilidade de repetir um podcast (repeat)
 - Utilização de SSG (páginas estáticas são geradas conforme o acesso)
-
-</br>
 
 ## Como rodar
 
@@ -50,8 +46,6 @@ yarn server
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) com seu browser para acessar a aplicação.
-
-</br>
 
 ## Links
 
